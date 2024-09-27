@@ -1,13 +1,13 @@
+
 ## Hi there 👋
 
 ### My Skills
 
-![HTML](https://quickchart.io/chart/render/sf-7d2b0b38-8b0e-4819-9df0-b139a8b9ab1e)
-![CSS](https://quickchart.io/chart/render/sf-59363d9f-24a2-4a8d-bde8-520a8fe9ff55)
-![JavaScript](https://quickchart.io/chart/render/sf-64901398-ec1f-47c5-a4e2-7d1fbf9b1b78)
-![Laravel](https://quickchart.io/chart/render/sf-74e6f510-b909-42cc-871b-45a03441a550)
-![Python](https://quickchart.io/chart/render/sf-f2dc4c6a-fbb1-44c3-9a90-9fe4f9e7c1bb)
-
+![HTML](https://img.shields.io/badge/HTML-80%25-brightgreen)
+![CSS](https://img.shields.io/badge/CSS-75%25-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-20%25-red)
+![Laravel](https://img.shields.io/badge/Laravel-80%25-brightgreen)
+![Python](https://img.shields.io/badge/Python-45%25-orange)
 
 - ### Connect with me:
   [LinkedIn](https://linkedin.com/inaryobintang/)
