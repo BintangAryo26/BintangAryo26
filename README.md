@@ -2,7 +2,12 @@
 
 ### My Skills
 
-https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[80,20],backgroundColor:['#4caf50','#e0e0e0']}]},"options":{"rotation":-1.0,"circumference":6.283185,"cutout":"70%","plugins":{"datalabels":{"display":true,"color":"black","formatter":(val)=>`${val}%`}}}}
+![HTML](https://quickchart.io/chart/render/sf-7d2b0b38-8b0e-4819-9df0-b139a8b9ab1e)
+![CSS](https://quickchart.io/chart/render/sf-59363d9f-24a2-4a8d-bde8-520a8fe9ff55)
+![JavaScript](https://quickchart.io/chart/render/sf-64901398-ec1f-47c5-a4e2-7d1fbf9b1b78)
+![Laravel](https://quickchart.io/chart/render/sf-74e6f510-b909-42cc-871b-45a03441a550)
+![Python](https://quickchart.io/chart/render/sf-f2dc4c6a-fbb1-44c3-9a90-9fe4f9e7c1bb)
+
 
 )
 
