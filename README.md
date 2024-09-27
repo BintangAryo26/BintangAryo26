@@ -9,8 +9,6 @@
 ![Python](https://quickchart.io/chart/render/sf-f2dc4c6a-fbb1-44c3-9a90-9fe4f9e7c1bb)
 
 
-)
-
 - ### Connect with me:
   [LinkedIn](https://linkedin.com/inaryobintang/)
 
