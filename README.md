@@ -10,7 +10,7 @@
 
 
 - ### Connect with me:
-- [LinkedIn](https://linkedin.com/inaryobintang/)
+  [LinkedIn](https://linkedin.com/inaryobintang/)
 
 - ### Technologies & Tools:
 - Frontend: HTML, CSS, JavaScript
