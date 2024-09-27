@@ -2,11 +2,12 @@
 
 ### My Skills
 
-- HTML ![80%](https://progress-bar.dev/80)
-- CSS ![75%](https://progress-bar.dev/75)
-- JavaScript ![20%](https://progress-bar.dev/20)
-- Laravel ![80%](https://progress-bar.dev/80)
-- Python ![45%](https://progress-bar.dev/45)
+![HTML](https://img.shields.io/badge/HTML-80%25-brightgreen)
+![CSS](https://img.shields.io/badge/CSS-75%25-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-20%25-red)
+![Laravel](https://img.shields.io/badge/Laravel-80%25-brightgreen)
+![Python](https://img.shields.io/badge/Python-45%25-orange)
+
 
 - ### Connect with me:
 - [LinkedIn](https://linkedin.com/inaryobintang/)
