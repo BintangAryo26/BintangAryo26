@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-45%25-orange)
 
 - ### Connect with me:
-  [LinkedIn](https://linkedin.com/aryobintang/)
+  [LinkedIn](https://www.linkedin.com/in/aryobintang/)
 
 - ### Technologies & Tools:
 - Frontend: HTML, CSS, JavaScript
